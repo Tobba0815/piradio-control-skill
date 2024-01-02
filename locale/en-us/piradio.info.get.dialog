@@ -1,0 +1,3 @@
+the current radio channel is {channel} and the song is {song}
+the radio is playing {channel} with {song}
+the radio plays {channel} {song}

@@ -1,0 +1,3 @@
+radio set channel (to |) {channel}
+set radio channel (to |) {channel}
+change radio channel (to|) {channel}
